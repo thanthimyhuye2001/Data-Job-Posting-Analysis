@@ -1,0 +1,9 @@
+2026/06/13-21:57:47.820 30bc Reusing MANIFEST e:\Chuyển từ download sang\A Học tập Bách Khoa\ĐA2\Đồ án 2 _ 2025\Project_full\Crawl_job\code\topcv_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/13-21:57:47.828 30bc Recovering log #44
+2026/06/13-21:57:47.831 30bc Reusing old log e:\Chuyển từ download sang\A Học tập Bách Khoa\ĐA2\Đồ án 2 _ 2025\Project_full\Crawl_job\code\topcv_profile\Default\Local Storage\leveldb/000044.log 
+2026/06/13-21:58:47.847 cb8 Level-0 table #48: started
+2026/06/13-21:58:47.852 cb8 Level-0 table #48: 232618 bytes OK
+2026/06/13-21:58:47.853 cb8 Delete type=0 #44
+2026/06/13-22:15:49.844 cb8 Level-0 table #50: started
+2026/06/13-22:15:49.856 cb8 Level-0 table #50: 17111 bytes OK
+2026/06/13-22:15:49.858 cb8 Delete type=0 #47

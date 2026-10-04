@@ -1,0 +1,65 @@
+﻿id_location,location,region,economic region,latitude,longitude
+1,Hà Nội,Miền Bắc,Đồng bằng sông Hồng,21.0285,105.8542
+2,Hải Phòng,Miền Bắc,Đồng bằng sông Hồng,20.8449,106.6881
+3,Hà Giang,Miền Bắc,Đông Bắc Bộ,22.7368,104.945
+4,Cao Bằng,Miền Bắc,Đông Bắc Bộ,22.7533,105.9928
+5,Bắc Kạn,Miền Bắc,Đông Bắc Bộ,22.2036,105.8193
+6,Tuyên Quang,Miền Bắc,Đông Bắc Bộ,22.0494,105.2154
+7,Lào Cai,Miền Bắc,Tây Bắc Bộ,22.4284,104.1508
+8,Điện Biên,Miền Bắc,Tây Bắc Bộ,21.6888,103.0238
+9,Lai Châu,Miền Bắc,Tây Bắc Bộ,22.3871,103.1118
+10,Sơn La,Miền Bắc,Tây Bắc Bộ,21.2185,103.8247
+11,Yên Bái,Miền Bắc,Tây Bắc Bộ,21.8492,104.6062
+12,Hòa Bình,Miền Bắc,Tây Bắc Bộ,20.6865,105.3789
+13,Thái Nguyên,Miền Bắc,Đông Bắc Bộ,21.6576,105.8193
+14,Lạng Sơn,Miền Bắc,Đông Bắc Bộ,21.8988,106.518
+15,Quảng Ninh,Miền Bắc,Đông Bắc Bộ,21.2384,107.2891
+16,Bắc Giang,Miền Bắc,Đông Bắc Bộ,21.2731,106.1946
+17,Phú Thọ,Miền Bắc,Đông Bắc Bộ,21.3259,105.1259
+18,Vĩnh Phúc,Miền Bắc,Đồng bằng sông Hồng,21.3611,105.5391
+19,Bắc Ninh,Miền Bắc,Đồng bằng sông Hồng,21.1861,106.0763
+20,Hải Dương,Miền Bắc,Đồng bằng sông Hồng,20.9389,106.3144
+21,Hưng Yên,Miền Bắc,Đồng bằng sông Hồng,20.7329,106.0504
+22,Thái Bình,Miền Bắc,Đồng bằng sông Hồng,20.518,106.3754
+23,Hà Nam,Miền Bắc,Đồng bằng sông Hồng,20.5458,105.9525
+24,Nam Định,Miền Bắc,Đồng bằng sông Hồng,20.3013,106.2163
+25,Ninh Bình,Miền Bắc,Đồng bằng sông Hồng,20.2162,105.9376
+26,Thanh Hoá,Miền Trung,Bắc Trung Bộ,20.1226,105.2974
+27,Nghệ An,Miền Trung,Bắc Trung Bộ,19.3491,104.9122
+28,Hà Tĩnh,Miền Trung,Bắc Trung Bộ,18.2383,105.8878
+29,Quảng Bình,Miền Trung,Bắc Trung Bộ,17.4853,106.398
+30,Quảng Trị,Miền Trung,Bắc Trung Bộ,16.7118,107.0135
+31,Huế,Miền Trung,Bắc Trung Bộ,16.4253,107.4725
+32,Đà Nẵng,Miền Trung,Nam Trung Bộ,16.0471,108.2062
+33,Quảng Nam,Miền Trung,Nam Trung Bộ,15.5422,108.064
+34,Quảng Ngãi,Miền Trung,Nam Trung Bộ,14.9793,108.7077
+35,Bình Định,Miền Trung,Nam Trung Bộ,14.1205,108.9114
+36,Phú Yên,Miền Trung,Nam Trung Bộ,13.1678,109.0207
+37,Khánh Hòa,Miền Trung,Nam Trung Bộ,12.2612,109.1171
+38,Ninh Thuận,Miền Trung,Nam Trung Bộ,11.6886,108.9114
+39,Bình Thuận,Miền Trung,Nam Trung Bộ,11.0964,108.064
+40,Kon Tum,Miền Trung,Tây Nguyên,14.5094,107.9407
+41,Gia Lai,Miền Trung,Tây Nguyên,13.8115,108.1188
+42,Đắk Lắk,Miền Trung,Tây Nguyên,12.71,108.2384
+43,Đắk Nông,Miền Trung,Tây Nguyên,12.1936,107.7013
+44,Lâm Đồng,Miền Trung,Tây Nguyên,11.6444,108.2062
+45,Bình Phước,Miền Nam,Đông Nam Bộ,11.7513,106.8406
+46,Tây Ninh,Miền Nam,Đông Nam Bộ,11.3653,106.1219
+47,Bình Dương,Miền Nam,Đông Nam Bộ,11.1634,106.6617
+48,Đồng Nai,Miền Nam,Đông Nam Bộ,11.0253,107.1856
+49,Bà Rịa – Vũng Tàu,Miền Nam,Đông Nam Bộ,10.5303,107.1685
+50,Hồ Chí Minh,Miền Nam,Đông Nam Bộ,10.8231,106.6297
+51,Long An,Miền Nam,Đồng bằng sông Cửu Long,10.6946,106.3144
+52,Tiền Giang,Miền Nam,Đồng bằng sông Cửu Long,10.4283,106.273
+53,Bến Tre,Miền Nam,Đồng bằng sông Cửu Long,10.2435,106.3754
+54,Trà Vinh,Miền Nam,Đồng bằng sông Cửu Long,9.7712,106.3144
+55,Vĩnh Long,Miền Nam,Đồng bằng sông Cửu Long,10.1583,105.9928
+56,Đồng Tháp,Miền Nam,Đồng bằng sông Cửu Long,10.5186,105.656
+57,An Giang,Miền Nam,Đồng bằng sông Cửu Long,10.5365,105.1259
+58,Kiên Giang,Miền Nam,Đồng bằng sông Cửu Long,9.8732,105.1259
+59,Cần Thơ,Miền Nam,Đồng bằng sông Cửu Long,10.0342,105.7219
+60,Hậu Giang,Miền Nam,Đồng bằng sông Cửu Long,9.7744,105.6316
+61,Sóc Trăng,Miền Nam,Đồng bằng sông Cửu Long,9.5559,105.9723
+62,Bạc Liêu,Miền Nam,Đồng bằng sông Cửu Long,9.2941,105.7244
+63,Cà Mau,Miền Nam,Đồng bằng sông Cửu Long,9.1769,105.1472
+64,Nước Ngoài / Khác,,,,
