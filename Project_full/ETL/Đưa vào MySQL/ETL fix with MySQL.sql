@@ -56,7 +56,7 @@ SET c.company_clean = UPPER(TRIM(
         REGEXP_REPLACE(IF(m.company_name IS NOT NULL, m.company_group, c.company_name), '[\\(\\),\\.\\-\\–\\|\\"]+', ' '),
 
         -- Bước 2: Xóa đuôi Pro Company + Xóa tất cả các từ thừa
-        'Pro Company$|\\b(TMCP|CTCP|TNHH|MTV|JSC|INC|Co\\s+Ltd\\s+Limited|Co\\s+Ltd|Pvt\\s+Ltd|Ltd|Private Limited Company|Limited Company|Limited|Thương mại cổ phần|Công ty Cổ phần|Trách nhiệm hữu hạn|Một thành viên|Chi nhánh|CP & DV|CP|Công ty|Việt nam|vietnam|viet nam|corp|Corporation)\\b|\\b(?!và\\s+)(?!&\\s+)công nghệ(?!\\s+và)(?!\\s+&)\\b', '', 1, 0, 'i'
+        'Pro Company$|\\b(TMCP|CTCP|TNHH|MTV|JSC|INC|Co\\s+Ltd\\s+Limited|Co\\s+Ltd|Pvt\\s+Ltd|Ltd|Private Limited Company|Limited Company|Limited|Joint Stock Company|Thương mại cổ phần|Công ty Cổ phần|Trách nhiệm hữu hạn|Một thành viên|Chi nhánh|CP & DV|CP|Công ty|Việt nam|vietnam|viet nam|corp|Corporation)\\b|\\b(?!và\\s+)(?!&\\s+)công nghệ(?!\\s+và)(?!\\s+&)\\b', '', 1, 0, 'i'
     )
 ));
 
