@@ -62,7 +62,7 @@ Hướng phân tích:
 
 ### 2.4. Phân tích mức lương phổ biến
 Hướng phân tích:
-* Tiếng Anh có giúp tăng lương không?
+- Tiếng Anh có giúp tăng lương không?
 - Lương bao nhiêu là hợp lý ở từng cấp bậc?
 - Số năm kinh nghiệm ảnh hưởng tới mức lương như thế nào?
   
@@ -72,7 +72,7 @@ Hướng phân tích:
 ## III. INSIGHTS CHÍNH
 #### 3.1. Nhu cầu theo vai trò và cấp bậc
 - Thị trường do bộ ba **AI/Machine Learning, Data Analyst/BI và Data Engineer** dẫn dắt, còn Data Science rất ít và chỉ tập trung ở các tổ chức lớn có Big Data.
-- Cấp **Nhân viên** chiếm 66% tin tuyển dụng, và ở cấp này **Data Analyst/ BI vượt lên dẫn đầu**.
+- Cấp **Nhân viên** chiếm 66% tin tuyển dụng, và ở cấp này **nhu cầu tuyển Data Analyst/ BI nhiều nhất**.
 - Nhiều tin yêu cầu **một người kiêm nhiều vai trò** (Data Engineer x AI/Machine Learning, Data Analyst/BI x Data Engineer), và những vị trí lai này có mức lương cao hơn vai trò thuần.
 
 #### 3.2. Nhu cầu theo lĩnh vực
