@@ -10,11 +10,11 @@ Trước khi ứng tuyển vào ngành Data, mình muốn tự trả lời cho c
 Vì vậy, mình đã tự thu thập dữ liệu tuyển dụng từ 4 nền tảng tuyển dụng việc làm phổ biến tại Việt Nam (Vietnamworks, TopCV, ITviec, CareerViet) thực hiện từ ngày **26/03/2026 – 13/06/2026**. Từ đó xây dựng mô hình dữ liệu và dashboard để phân tích.
 
 ### 1.2. Phương pháp thực hiện
-| **Nguồn dữ liệu**              | Cào 4 website tuyển dụng Vietnamworks, TopCV, ITviec, CareerViet dựa trên list từ khóa các ngành nghề trong lĩnh vực data                                                                                |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Phạm vi thời gian thu thập** | 30/03/2026 – 13/06/2026                                                                                                                                                                                  |
-| **Quy mô dữ liệu**             | 3,489 tin tuyển dụng trong lĩnh vực data từ 1,273 công ty (trong khung phân tích chính)                                                                                                                  |
-| **Quy trình**                  | 1. Python: Web scraping --> Explore data --> ETL  (lưu dữ liệu dạng CSV)<br>2. MySQL: Xác định Dim Fact --> Xây dựng Modeling dạng Star Schema<br>3. Power BI: Phân tích insights --> Xây dựng Dahsboard |
+ - **Nguồn dữ liệu**:  Cào 4 website tuyển dụng Vietnamworks, TopCV, ITviec, CareerViet dựa trên list từ khóa các ngành nghề trong lĩnh vực data.
+ - **Phạm vi thời gian thu thập**: 30/03/2026 – 13/06/2026
+ - **Quy mô dữ liệu**: 3,489 tin tuyển dụng trong lĩnh vực data từ 1,273 công ty (trong khung phân tích chính)
+ - **Quy trình**: 
+    <br>1. Python: Web scraping --> Explore data --> ETL  (lưu dữ liệu dạng CSV)<br>2. MySQL: Xác định Dim Fact --> Xây dựng Modeling dạng Star Schema<br>3. Power BI: Phân tích insights --> Xây dựng Dahsboard
 
 
 **Data Modeling**
@@ -69,7 +69,7 @@ Hướng phân tích:
 ![](https://github.com/thanthimyhuye2001/Data-Job-Posting-Analysis/blob/main/Project_full/dashboard/4.Salary.png)
 
 ---
-## III. INSIGHTS
+## III. INSIGHTS CHÍNH
 #### 3.1. Nhu cầu theo vai trò và cấp bậc
 - Thị trường do bộ ba **AI/Machine Learning, Data Analyst/BI và Data Engineer** dẫn dắt, còn Data Science rất ít và chỉ tập trung ở các tổ chức lớn có Big Data.
 - Cấp **Nhân viên** chiếm 66% tin tuyển dụng, và ở cấp này **Data Analyst/ BI vượt lên dẫn đầu**.
@@ -78,11 +78,11 @@ Hướng phân tích:
 #### 3.2. Nhu cầu theo lĩnh vực
 - **Tài chính - Ngân hàng và Công nghệ** chiếm tới 55% tổng nhu cầu
 - 5 lĩnh vực chiếm gần 90% thị trường: 
-1. Tài chính - Ngân hàng
-2. Công nghệ - Phần mềm
-3. Thương mại điện tử - Bán lẻ
-4. Sản xuất - Logistics
-5. Dịch vụ - Truyền thông
+  <br>1. Tài chính - Ngân hàng
+  <br>2. Công nghệ - Phần mềm
+  <br>3. Thương mại điện tử - Bán lẻ
+  <br>4. Sản xuất - Logistics
+  <br>5. Dịch vụ - Truyền thông
    
 - **Công nghệ - Phần mềm** nghiêng về kỹ thuật (AI/Machine Learning, Data Engineer), trong khi **TMĐT - Bán lẻ** thiên về Data Analyst/ BI .
 - **Game** là lĩnh vực nghiêng về Data Analyst/ BI nhất, vì vận hành game dựa vào phân tích hành vi người chơi hằng ngày.
