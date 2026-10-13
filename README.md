@@ -26,7 +26,7 @@ Vì vậy, mình đã tự thu thập dữ liệu tuyển dụng từ 4 nền t�
 - Về thông tin địa điểm tỉnh thành, trường hợp tin tuyển dụng có hiển thị làm việc nhiều nơi, thì chỉ lấy thông tin tỉnh thành hợp lệ đầu tiên được nhắc tới.
 - Dữ liệu phản ánh "nguồn cung tin tuyển dụng công khai", chưa bao gồm các vị trí tuyển qua headhunter / referral nội bộ.
 ### 1.4. Kết quả phân tích
-- [Báo cáo phân tích thị trường tuyển dụng Data ở Việt Nam 2026 Q2](https://drive.google.com/file/d/1Djirx2iA1dYSa9U8wzY8DKdYv_j4XsDe/view)
+- [Báo cáo phân tích thị trường tuyển dụng Data ở Việt Nam 2026 Q2](https://drive.google.com/file/d/1i0vdUc2pHrUWyC2YnwgQ-bANUDVWhyQ8/view?usp=drive_link)
 - [Dashboard phân tích POWER BI](https://github.com/thanthimyhuye2001/Data-Job-Posting-Analysis/blob/main/Project_full/dashboard/Dashboard%20Job%20Posting%20Analyst.pbix)
 
 
