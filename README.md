@@ -100,11 +100,9 @@ Hướng phân tích:
 - Xu hướng tuyển dụng đang dịch chuyển sang **kỹ năng và portfolio** thay vì bằng cấp.
 
 #### 3.5. Mức lương
-- Lương **Intern/Fresher khoảng 5-12 triệu**, nhảy lên **17-30 triệu** khi thành Nhân viên chính thức.
-- Nhóm **1-3 năm kinh nghiệm** được tuyển dụng nhiều nhất.
-- nhóm **3-5 năm** có lương nhảy vọt lên dải 33-52 triệu.
-- Sau 5 năm, dải lương mở rộng rất rộng, nghĩa là kinh nghiệm chỉ quyết định “mức sàn”, còn lương thực tế phụ thuộc cấp bậc, vai trò và kỹ năng.
-- Tỷ lệ tin công khai lương giảm dần theo kinh nghiệm (từ 33% xuống 11%), và toàn bộ phân tích lương chỉ dựa trên 885 tin (25% dữ liệu).
+-	Lương Intern/Fresher khoảng 5-12 triệu, nhảy vọt lên 17-30 triệu khi thành Nhân viên chính thức.
+-	Sau 5 năm, dải lương mở rộng rất rộng, nghĩa là kinh nghiệm chỉ quyết định “mức sàn”, còn lương thực tế phụ thuộc cấp bậc, vai trò và kỹ năng.
+-	**Tỷ lệ tin công khai lương giảm dần khi yêu cầu số năm kinh nghiệm tăng lên**, và chỉ có 25% tổng dữ liệu thu được là công khai mức lương.
 
 ---
 ## IV. ĐỀ XUẤT
