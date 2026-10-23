@@ -3,10 +3,10 @@
 # [POWER BI] Phân tích tuyển dụng ngành Data ở Việt Nam 
 
 ## [BẢNG MỤC LỤC](#top)
-* [i. Giới thiệu](#top-1)
-* [ii. Dashboard Power BI](#top-2)
-* [iii. Insight chính](#top-3)
-* [iv. Đề xuất](#top-4)
+- [i. Giới thiệu](#i-giới-thiệu)
+- [ii. Dashboard Power BI](#ii-dashboard-power-bi)
+- [iii. Insight chính](#iii-insight-chính)
+- [iv. Đề xuất](#iv-đề-xuất)
 
 
 ## [I. GIỚI THIỆU](#top-1)
