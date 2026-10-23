@@ -5,7 +5,7 @@
 ## [BẢNG MỤC LỤC](#top)
 - [i. Giới thiệu](#i-giới-thiệu)
 - [ii. Dashboard Power BI](#ii-dashboard-power-bi)
-- [iii. Insight chính](#iii-insight-chính)
+- [iii. Insights chính](#iii-insights-chính)
 - [iv. Đề xuất](#iv-đề-xuất)
 
 
