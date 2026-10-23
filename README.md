@@ -1,6 +1,6 @@
 # [POWER BI] Phân tích tuyển dụng ngành Data ở Việt Nam 
 
-## I. GIỚI THIỆU
+## [I. GIỚI THIỆU](https://)
 ### 1.1. Về báo cáo
 Trước khi ứng tuyển vào ngành Data, mình muốn tự trả lời cho chính bản thân những câu hỏi bên dưới, thay vì chỉ dựa vào cảm nhận chủ quan hay những lời khuyên chung chung trên mạng:
 1. Mình nên theo hướng nào DA ? DE ? DS ? AI ? 
