@@ -3,11 +3,13 @@
 # [POWER BI] Phân tích tuyển dụng ngành Data ở Việt Nam 
 
 ## [BẢNG MỤC LỤC](#top)
-* [Giới thiệu](#giới-thiệu)
-* [4. Đề xuất](#IV.-ĐỀ-XUẤT)
+* [i. Giới thiệu](#top-1)
+* [ii. Dashboard Power BI](#top-2)
+* [iii. Insight chính](#top-3)
+* [iv. Đề xuất](#top-4)
 
 
-## [I. GIỚI THIỆU](#top)
+## [I. GIỚI THIỆU](#top-1)
 ### 1.1. Về báo cáo
 Trước khi ứng tuyển vào ngành Data, mình muốn tự trả lời cho chính bản thân những câu hỏi bên dưới, thay vì chỉ dựa vào cảm nhận chủ quan hay những lời khuyên chung chung trên mạng:
 1. Mình nên theo hướng nào DA ? DE ? DS ? AI ? 
@@ -38,7 +40,7 @@ Vì vậy, mình đã tự thu thập dữ liệu tuyển dụng từ 4 nền t�
 
 
 ---
-## [II. DASHBOARD [POWER BI]](#top)
+## [II. DASHBOARD [POWER BI]](#top-2)
 ### 2.1. Phân tích tổng quan
 Hướng phân tích:
 - Cơ hội việc làm tăng trưởng mỗi ngày ra sao?
@@ -112,7 +114,7 @@ Hướng phân tích:
 -	**Tỷ lệ tin công khai lương giảm dần khi yêu cầu số năm kinh nghiệm tăng lên**, và chỉ có 25% tổng dữ liệu thu được là công khai mức lương.
 
 ---
-## [IV. ĐỀ XUẤT](#top)
+## [IV. ĐỀ XUẤT](#top-4)
 
 #### 4.1. Chọn hướng đi
 
